@@ -60,6 +60,3 @@ curl -X POST http://localhost:8000/chat \
   -d '{"message": "What technology stack does BYV use?"}'
 ```
 
-## 📝 License
-
-Proprietary - BYV (Build Your Vision)
